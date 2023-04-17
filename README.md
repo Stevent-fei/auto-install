@@ -12,7 +12,7 @@ ubuntu系统支持正在路上～
 git clone https://github.com/Stevent-fei/auto-docker.git
 
 2. 进入项目
-cd auto-docker.git
+cd auto-docker/docker
 
 3. 执行脚本进行自动化安装docker
 bash auto-install-docker.sh
