@@ -15,7 +15,7 @@ git clone https://github.com/Stevent-fei/auto-docker.git
 cd auto-docker.git
 
 3. 执行脚本进行自动化安装docker
-bash auto-docker.sh
+bash auto-install-docker.sh
 ```
 
 卸载docker使用方法：
